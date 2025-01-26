@@ -107,4 +107,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-Made with ❤️ by Ch. Abdul Wahab
+Made with Love by Ch. Abdul Wahab

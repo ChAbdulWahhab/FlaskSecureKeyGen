@@ -10,7 +10,7 @@ setup(
     description="A library to generate secure random secret keys for Flask apps.",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/FlaskSecureKeyGen",
+    url="https://github.com/ChAbdulWahhab/FlaskSecureKeyGen",
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
